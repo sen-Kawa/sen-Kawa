@@ -1,8 +1,13 @@
 ### Prefered OS
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" height="60"/>&nbsp;
+<div>
+  
+ ### Prefered Distro
+<div>
   <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" title="ARCH" alt="ARCH" height="60"/>&nbsp;
 <div>
- 
+  
  ### Prefered EDITOR
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="VIM" alt="VIM" height="60"/>&nbsp;
