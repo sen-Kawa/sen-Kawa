@@ -4,7 +4,7 @@
 <div>
   
  ### Prefered Distro
-<div>
+<div align="center">
   <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" title="ARCH" alt="ARCH" height="60"/>&nbsp;
 <div>
   
