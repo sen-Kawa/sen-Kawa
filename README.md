@@ -4,17 +4,17 @@
 <div>
   
  ### Prefered Distro
-<div align="center">
+<div>
   <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" title="ARCH" alt="ARCH" height="60"/>&nbsp;
 <div>
   
  ### Prefered EDITOR
-<div align="right">
+<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="VIM" alt="VIM" height="60"/>&nbsp;
 <div>
   
 ### Languages and Tools
-<div align="left">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
