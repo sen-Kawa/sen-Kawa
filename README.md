@@ -30,6 +30,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
 </div>
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sen-Kawa)](https://github.com/sen-Kawa/github-readme-stats)
 
 <!--
 **sen-Kawa/sen-Kawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
