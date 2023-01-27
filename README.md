@@ -31,7 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
 </div>
   
-  
+  ---
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sen-Kawa)](https://github.com/sen-Kawa/github-readme-stats)
 
 <!--
